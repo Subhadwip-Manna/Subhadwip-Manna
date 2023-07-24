@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Subhadwip-Manna
 - 👀 I’m interested in Data Science and Machine Learning.
 - 🌱 Currently i have done Post Graduate Stack Route course from NIIT.
-- 💞️ I’m looking to collaborate with Data Science Community and which can be rewarding experience to me.
+- 💞️ I’m looking to collaborate with Interesting people, which can be rewarding to me.
 - 📫 Please connect https://www.linkedin.com/in/subhadwip-manna/
 
 <!---
